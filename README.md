@@ -1,0 +1,1 @@
+# kit-nft\n\nNFT collection spec template for dotdog\n\nBuilt for [dotdog](https://github.com/specdog/dotdog).\n\n## Usage\n\n```bash\nnpm install -g dotdog\ndotdog kit init nft\ndotdog validate\n```\n\n## License\n\nMIT
